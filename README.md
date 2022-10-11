@@ -1,3 +1,3 @@
-# Моё резюме
+# My resume
 
-[Моя первая работа в HTML&CSS](https://pixelcarnival.github.io/resume/#)
+[My first job in HTML&CSS](https://pixelcarnival.github.io/resume/#)
